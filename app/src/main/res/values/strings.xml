@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DiceRoller</string>
+    <string name="app_name" translatable="false">DiceRoller</string>
+    <string name="toRoll">Roll</string>
+    <string name="diceRolled">Dice Rolled!</string>
 </resources>
